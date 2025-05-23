@@ -14,4 +14,3 @@ We treat **time as a first-class interface** for managing memory, agency, and be
 
 **Derek Rosenzweig**  
 Founder, Runtime Labs  
-San Francisco, CA | New York, NY 
