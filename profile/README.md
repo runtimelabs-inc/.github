@@ -27,4 +27,3 @@ Runtime Labs treats time not as metadata, but as a core execution substrate — 
 
 **Derek Rosenzweig**  
 Founder, Runtime Labs 
-San Francisco, CA 
