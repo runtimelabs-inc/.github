@@ -10,7 +10,7 @@ Agents today operate without persistent memory, real-time execution, or feedback
 
 We treat **time as a first-class interface** for managing memory, agency, and behavior — unlocking a new class of intelligent systems.
 
-## It's Time
+## Time
 
 Achieving artificial general intelligence requires more than scaling models — it demands grounded intelligence in space and time, where agents are embedded in the physical context of users, organizations, and environments.
 
