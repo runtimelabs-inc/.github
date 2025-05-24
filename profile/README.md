@@ -12,7 +12,7 @@ We treat **time as a first-class interface** for managing memory, agency, and be
 
 ## Time
 
-Achieving artificial general intelligence requires more than scaling models — it demands grounded intelligence in space and time, where agents are embedded in the physical context of users, organizations, and environments.
+Achieving artificial general intelligence requires more than scaling models. It demands grounded intelligence in space and time, where agents are embedded in the physical context of users, organizations, and environments.
 
 A core axis of this grounding is **time**. Just as general relativity reveals that all physical systems are constrained by spacetime, intelligent systems must reason and act within the temporal structure of real-world commitments, causality, and feedback.
 
