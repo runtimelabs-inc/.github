@@ -2,7 +2,7 @@
 
 **Programmable Memory + Temporal Agent Runtime**
 
-Runtime Labs is building the temporal runtime layer for autonomous systems — transforming static calendars into programmable interfaces for agent planning, memory coordination, and time-based reasoning.
+Runtime Labs is building the runtime layer to ground agents in time and user context. We are also developing interfaces for transforming calendars into programmable and editable environment for scheduling agent planning, memory coordination, and time-based reasoning.
 
 ## Vision
 
