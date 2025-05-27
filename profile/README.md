@@ -2,8 +2,7 @@
 
 **Programmable Memory + Temporal Agent Runtime**
 
-Runtime Labs is building the runtime layer to ground agents in time and user context. We are also developing interfaces for transforming calendars into programmable and editable environment for scheduling agent planning, memory coordination, and time-based reasoning.
-
+Runtime Labs is building the runtime layer to ground agents in time and user context.We’re developing interfaces that transform calendars into a programmable environment—enabling agent coordination, memory-based planning, and time-aware reasoning.
 ## Vision
 
 Agents today operate without persistent memory, real-time execution, or feedback-driven coordination. Runtime Labs introduces a **runtime-first architecture**, enabling structured scheduling, reflection, and autonomous behavior grounded in user timelines.
