@@ -15,9 +15,9 @@ Achieving artificial general intelligence requires more than scaling models. It 
 
 A core axis of this grounding is **time**. Just as general relativity reveals that all physical systems are constrained by spacetime, intelligent systems must reason and act within the temporal structure of real-world commitments, causality, and feedback.
 
-Time is often abstracted away or omitted entirely during pretraining on natural language — despite its essential role in aligning intelligence with user intent at inference. This may represent a foundational gap in current training regimes. 
+Time is often abstracted away or omitted entirely despite its essential role in aligning intelligence with user intent at inference. This may represent a foundational gap in current training regimes. 
 
-At Runtime, we explore augmenting pretraining data with **Tempo Tokens**: compact representations of events tagged with timestamps, giving models structured access to temporal context and enabling natural language to be anchored to events as they unfold in the physical world.
+At Runtime, we explore augmenting reasoning at inference with **Tempo Tokens**: compact representations of events tagged with timestamps, giving models structured access to temporal context and enabling natural language to be anchored to events as they unfold in the physical world.
 
 Runtime Labs treats time not as metadata, but as a core execution substrate — enabling agents to plan, reflect, and adapt their behavior in alignment with the evolving rhythms of our lives.
 
